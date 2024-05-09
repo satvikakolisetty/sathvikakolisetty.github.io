@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Machine Learning"
+    },
+    {
+        "name": "Deep Learning"
+    },
+    {
+        "name": "Natural Learning Processing (NLP)"
+    },
+    {
+        "name": "Data Analysis"
+    },
+    {
+        "name": "Predictive Modeling"
+    },
+    {
+        "name": "Ensemble Learning"
+    },
+    {
+        "name": "Clustering"
+    },
+    {
+        "name": "Reinforcement Learning"
+    },
+    {
+        "name": "Artificial Neural Networks (ANN)"
+    },
+    {
+        "name": "Convolutional Neural Networks (CNN)"
+    },
+    {
+        "name": "Recurrent Neural Networks (RNN)"
+    },
+    {
+        "name": "Long Short-Term Memory (LSTM)"
+    },
+    {
+        "name": "Stemming"
+    },
+    {
+        "name": "Lemmatization"
+    },
+    {
+        "name": "Word Embedding"
+    },
+    {
+        "name": "Sentiment Analysis"
+    },
+    {
+        "name": "Recommendation Systems"
+    },
+    {
+        "name": "Text Classification"
+    },
+    {
+        "name": "Tensorflow"
+    },
+    {
+        "name": "pyTorch"
+    },
+    {
+        "name": "NLTK"
+    },
+    {
+        "name": "Scikit-learn"
+    },
+    {
+        "name": "Tableau"
+    },
+    {
+        "name": "Power BI"
+    },
+    {
+        "name": "Apache Airflow"
+
+    },
+    {
+        "name": "Snowflake"
+
+    },
+    {
+        "name": "Extract, Transform, Load (ETL)"
+
+    },
+    {
+        "name": "My SQL"
+    },
+    {
+        "name": "MSSQL"
+    },
+    {
+        "name": "MongoDB"
+    },
+    {
+        "name": "Python"
+    },
+    {
+        "name": "Git"
+    },
+    {
+        "name": "Docker"
+    },
+    {
+        "name": "Kuberenetes"
+    },
+    {
+        "name": "Jenkins"
+    },
+    {
+        "name": "AWS"
+    },
+    {
+        "name": "Google Cloud Platform"
+    },
+    {
+        "name": "RHEL9"
+    }
+     
+]

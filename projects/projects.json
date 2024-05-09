@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Image Captioning Using Vision Encoder Decoder",
+    "desc": "Image captioning system with Vision Transformers and GPT-2 models, achieving a remarkable 92% enhancement in generation accuracy.",
+    "image": "image-caption",
+  
+    "links": {
+
+      "code": "https://github.com/satvikakolisetty/Image-Captioning-Using-Vision-Encoder-Decoder-Models"
+    }
+  },
+  {
+    "name": "Secure E-Voting System",
+    "desc": "E-voting system that uses face and fingerprint identification to cast votes. Biometric identification techniques using fingerprint scanners and ML algorithms.",
+    "image": "voting",
+    
+    "links": {
+  
+      "code": "https://github.com/satvikakolisetty/Secure-E-Voting-System"
+    }
+  },
+  {
+    "name": "Car Sales Dashboard using Tableau",
+    "desc": "A dynamic, interactive Car-Sales Dashboard using Tableau. This will visualize KPIs related to car sales, helps to analyze sales performance over time and make decisions.",
+    "image": "car-sales",
+    
+    "links": {
+
+      "code": "https://github.com/satvikakolisetty/Car-Sales-Dashboard-using-Tableau"
+    }
+  }
+  
+  
+]

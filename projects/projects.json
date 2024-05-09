@@ -2,7 +2,7 @@
   {
     "name": "Image Captioning Using Vision Encoder Decoder",
     "desc": "Image captioning system with Vision Transformers and GPT-2 models, achieving a remarkable 92% enhancement in generation accuracy.",
-    "image": "image-caption",
+    "image": "image-caption.png",
   
     "links": {
 
